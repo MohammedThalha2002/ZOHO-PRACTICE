@@ -2,6 +2,7 @@ package recursion;
 import java.util.Scanner;
 
 // Using Recursion
+// 4. Do binary search on the given sorted array
 
 public class BinarySearch {
     public static void main(String[] args) {

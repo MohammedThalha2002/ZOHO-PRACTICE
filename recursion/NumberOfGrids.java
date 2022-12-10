@@ -2,6 +2,8 @@ package recursion;
 
 import java.util.Scanner;
 
+// 3. Find the number of possible grids 
+
 public class NumberOfGrids {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

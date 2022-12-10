@@ -2,6 +2,8 @@ package recursion;
 
 import java.util.Scanner;
 
+// 2. Find the sum of positive numbers upto N
+
 public class SumOfN {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
