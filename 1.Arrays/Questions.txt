@@ -1,0 +1,53 @@
+---- EASY QUESTONS IN ARRAY ----
+
+1. Merge two sorted arrays 
+https://www.geeksforgeeks.org/merge-two-sorted-arrays/
+
+2. Remove duplicates from an array
+https://www.w3schools.com/python/python_howto_remove_duplicates.asp
+
+3. Count the frequency of an element in an Array
+https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/
+
+4. Two sum
+https://codeburst.io/understanding-the-two-sum-problem-9a6428083a7f
+
+5. Find the minimum (or maximum) element of an array
+https://afteracademy.com/blog/find-the-minimum-and-maximum-value/
+
+6. Remove duplicates from sorted array
+https://redquark.org/leetcode/0026-remove-duplicates-from-sorted-array/
+
+7. Remove element in-place
+https://redquark.org/leetcode/0026-remove-duplicates-from-sorted-array/
+
+8. Search Insert Position
+https://www.geeksforgeeks.org/search-insert-position-of-k-in-a-sorted-array/
+
+9. Maximum Subarray
+https://www.youtube.com/watch?v=86CQq3pKSUw
+
+10. Plus One
+https://medium.com/@punitkmr/leetcode-plus-one-401c5883d426
+
+11. Convert Sorted Array to Binary Search Tree (Arrays/Binary Trees)
+https://www.geeksforgeeks.org/sorted-array-to-balanced-bst/
+
+12. Single Number
+https://dev.to/akhilpokle/single-number-166f
+
+13. Count Primes
+https://www.geeksforgeeks.org/count-number-of-primes-in-an-array/
+
+14. Contains Duplicate
+https://medium.com/@punitkmr/contains-duplicates-i-74f28bf315f0
+
+15. Third Largest Number
+https://www.geeksforgeeks.org/third-largest-element-array-distinct-elements/
+
+16. Count Odd Even
+https://www.geeksforgeeks.org/count-number-even-odd-elements-array/
+
+
+For more questions ----> https://igotanoffer.com/blogs/tech/array-interview-questions
+

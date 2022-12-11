@@ -26,3 +26,5 @@ public class RepeatingCharacter {
     }
 
 }
+
+// Time complexity ---> O(N + N) == O(n)
