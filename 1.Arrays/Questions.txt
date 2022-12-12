@@ -1,18 +1,18 @@
 ---- EASY QUESTONS IN ARRAY ----
 
-1. Merge two sorted arrays 
+1. Merge two sorted arrays ✅
 https://www.geeksforgeeks.org/merge-two-sorted-arrays/
 
-2. Remove duplicates from an array
+2. Remove duplicates from an array ✅
 https://www.w3schools.com/python/python_howto_remove_duplicates.asp
 
-3. Count the frequency of an element in an Array
+3. Count the frequency of an element in an Array ✅
 https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/
 
-4. Two sum
+4. Two sum ✅
 https://codeburst.io/understanding-the-two-sum-problem-9a6428083a7f
 
-5. Find the minimum (or maximum) element of an array
+5. Find the minimum (or maximum) element of an array 
 https://afteracademy.com/blog/find-the-minimum-and-maximum-value/
 
 6. Remove duplicates from sorted array
