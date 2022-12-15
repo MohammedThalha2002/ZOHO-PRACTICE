@@ -31,7 +31,7 @@ public class TwoSum {
 
         for (int i = 0; i < arr.length; i++) {
             int diff = target - arr[i];
-            if(hashMap.containsKey(diff)){
+            if (hashMap.containsKey(diff)) {
                 // return the index of both the elements
                 System.out.println("Hashmap technique");
                 System.out.println("The two elements are : " + arr[i] + ", " + diff);
@@ -40,6 +40,7 @@ public class TwoSum {
                 hashMap.put(arr[i], i);
             }
         }
+        System.out.println(hashMap);
     }
 
 }
