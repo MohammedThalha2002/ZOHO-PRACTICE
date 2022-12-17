@@ -1,0 +1,6 @@
+Interview reviews
+
+    -- https://leetcode.com/discuss/interview-experience/301761/interview-experience-with-zoho-for-software-developer-role
+    -- https://leetcode.com/discuss/interview-question/1264983/zoho-sde-intern-round-1-questions
+    -- https://leetcode.com/discuss/interview-experience/1571508/zoho-mtssoftware-developerfresher-chennai-offer
+    -- https://leetcode.com/discuss/interview-experience/1760460/zoho-software-developer-chennai-rejected
