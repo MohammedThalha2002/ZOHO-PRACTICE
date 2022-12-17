@@ -17,13 +17,13 @@ https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/
 5. Merge two sorted arrays ✅
 https://www.geeksforgeeks.org/merge-two-sorted-arrays/
 
-6. Remove duplicates from sorted array
+6. Remove duplicates from sorted array ✅
 https://redquark.org/leetcode/0026-remove-duplicates-from-sorted-array/
 
-7. Remove element in-place
+7. Remove element in-place ✅
 https://redquark.org/leetcode/0026-remove-duplicates-from-sorted-array/
 
-8. Search Insert Position
+8. Search Insert Position ✅
 https://www.geeksforgeeks.org/search-insert-position-of-k-in-a-sorted-array/
 
 9. Maximum Subarray
