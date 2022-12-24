@@ -26,22 +26,22 @@ https://redquark.org/leetcode/0026-remove-duplicates-from-sorted-array/
 8. Search Insert Position ✅
 https://www.geeksforgeeks.org/search-insert-position-of-k-in-a-sorted-array/
 
-9. Maximum Subarray
+9. Maximum Subarray ✅
 https://www.youtube.com/watch?v=86CQq3pKSUw
 
-10. Plus One
+10. Plus One ✅
 https://medium.com/@punitkmr/leetcode-plus-one-401c5883d426
 
 11. Convert Sorted Array to Binary Search Tree (Arrays/Binary Trees)
 https://www.geeksforgeeks.org/sorted-array-to-balanced-bst/
 
-12. Single Number
+12. Single Number ✅
 https://dev.to/akhilpokle/single-number-166f
 
-13. Count Primes
+13. Count Primes ✅
 https://www.geeksforgeeks.org/count-number-of-primes-in-an-array/
 
-14. Contains Duplicate
+14. Contains Duplicate ✅
 https://medium.com/@punitkmr/contains-duplicates-i-74f28bf315f0
 
 15. Third Largest Number

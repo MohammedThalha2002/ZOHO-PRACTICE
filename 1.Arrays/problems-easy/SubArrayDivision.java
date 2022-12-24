@@ -11,7 +11,7 @@ public class SubArrayDivision {
         int totalNum = 0;
         for (int i = 0; i < arr.length; i++) {
             if (i + win_size < arr.length) {
-                
+
             }
         }
         return totalNum;
